@@ -11,15 +11,14 @@ Toutes les données que nous collectons sont principalement utilisées pour four
 
 ## Quelles informations collectons-nous ?
 
-- Informations sur le compte
+- Informations sur le compte:
 Si vous créez un compte Simba, votre compte aura un nom d’utilisateur, que vous fournirez ou qui sera généré automatiquement. Votre nom d’utilisateur est public et ne doit pas nécessairement être lié à votre vrai nom.
-
 Lorsque vous utilisez Simba, vous pouvez fournir d’autres informations facultatives. Nous pouvons vous demander de sélectionner des centres d’intérêt (par exemple, le football, les jeux videos) pour vous aider à créer un fil d’accueil ou de sélectionner des communautés (par exemple, r/Dahira) à rejoindre. Vous pouvez également fournir d’autres informations, telle que votre photo de profil. Ces informations sont facultatives et peuvent être supprimées à tout moment. Nous conservons également les préférences et les paramètres de votre compte utilisateur. Nous pouvons vous demander ces informations avant que vous ne créiez un nom d’utilisateur ou un compte afin d’améliorer votre expérience d’exploration de Simba.
 
-- Contenu que vous soumettez
+- Contenu que vous soumettez:
 Nous collectons le contenu que vous soumettez aux Services. Il s’agit de vos publications et vos rapports et autres communications avec les modérateurs et avec nous. Votre contenu peut comprendre du texte, des liens, des images et des gifs.
 
-- Mesures que vous prenez
+- Mesures que vous prenez:
 Nous collectons des informations sur les mesures que vous prenez lorsque vous utilisez les Services. Cela inclut vos interactions avec le contenu, comme le vote et l’enregistrement. Il s’agit également de vos interactions avec d’autres utilisateurs, telles que le suivi et l’ajout d’amis. Nous collectons vos interactions avec les communautés, comme vos abonnements ou votre statut d'administrateur.
 
 ## Comment nous utilisons les informations
@@ -45,12 +44,12 @@ Votre compte Simba possède une page de profil qui est publique. Votre profil co
 
 Nous ne vendons pas vos informations à caractère personnel. Cependant, en sus des informations à caractère personnel qui sont affichées publiquement comme décrit ci-dessus, nous pouvons partager des informations à caractère personnel de la manière suivante : .
 
-    - Avec votre consentement. Nous pouvons partager des informations vous concernant avec votre consentement ou selon vos instructions.
-    - Avec nos prestataires de services. Nous pouvons partager des informations avec des fournisseurs, des consultants et d’autres prestataires de services qui ont besoin d’accéder à ces informations pour effectuer des travaux pour nous. Leur utilisation des données à caractère personnel sera soumise à des mesures de confidentialité et de sécurité appropriées. Quelques exemples : (i) les services de traitement de paiement qui traitent les transactions pour notre compte, (ii) les fournisseurs de cloud qui hébergent nos données et nos services, (iii) les fournisseurs tiers de mesure des annonces qui nous aident, ainsi que les annonceurs, à mesurer les performances des annonces diffusées sur nos Services.
-    - Pour se conformer à la loi. Nous pouvons partager des informations en réponse à une demande d’information si nous pensons que la divulgation est conforme à toute loi, réglementation, procédure légale ou demande gouvernementale applicable ou prescrite par celle-ci, y compris, notamment, pour répondre aux exigences de sécurité nationale ou de maintien de l’ordre. Dans la mesure où la loi le permet, nous nous efforcerons de vous donner un préavis avant de divulguer vos informations en réponse à une telle demande. Notre Rapport de Transparence contient des informations supplémentaires sur la manière dont nous répondons aux demandes des pouvoirs publics.
-    - En cas d’urgence. Nous pouvons partager des informations si nous pensons que cela est nécessaire pour prévenir un préjudice corporel imminent et grave pour une personne.
-    - Pour faire appliquer nos politiques et nos droits. Nous pouvons partager des informations si nous pensons que vos actions sont incompatibles avec notre Contrat d’Utilisation, nos règles ou d’autres politiques de Simba, ou pour protéger les droits, la propriété et la sécurité de nous-mêmes et des autres.
-    - Informations agrégées ou anonymisées. Nous pouvons partager des informations vous concernant qui ont été agrégées ou anonymisées de telle sorte qu’elles ne peuvent raisonnablement pas être utilisées pour vous identifier. Par exemple, nous pouvons afficher le nombre total de fois où un article a été approuvé sans identifier les visiteurs, ou nous pouvons indiquer à un annonceur combien de personnes ont vu sa publicité.
+- Avec votre consentement. Nous pouvons partager des informations vous concernant avec votre consentement ou selon vos instructions.
+- Avec nos prestataires de services. Nous pouvons partager des informations avec des fournisseurs, des consultants et d’autres prestataires de services qui ont besoin d’accéder à ces informations pour effectuer des travaux pour nous. Leur utilisation des données à caractère personnel sera soumise à des mesures de confidentialité et de sécurité appropriées. Quelques exemples : (i) les services de traitement de paiement qui traitent les transactions pour notre compte, (ii) les fournisseurs de cloud qui hébergent nos données et nos services, (iii) les fournisseurs tiers de mesure des annonces qui nous aident, ainsi que les annonceurs, à mesurer les performances des annonces diffusées sur nos Services.
+- Pour se conformer à la loi. Nous pouvons partager des informations en réponse à une demande d’information si nous pensons que la divulgation est conforme à toute loi, réglementation, procédure légale ou demande gouvernementale applicable ou prescrite par celle-ci, y compris, notamment, pour répondre aux exigences de sécurité nationale ou de maintien de l’ordre. Dans la mesure où la loi le permet, nous nous efforcerons de vous donner un préavis avant de divulguer vos informations en réponse à une telle demande. Notre Rapport de Transparence contient des informations supplémentaires sur la manière dont nous répondons aux demandes des pouvoirs publics.
+- En cas d’urgence. Nous pouvons partager des informations si nous pensons que cela est nécessaire pour prévenir un préjudice corporel imminent et grave pour une personne.
+- Pour faire appliquer nos politiques et nos droits. Nous pouvons partager des informations si nous pensons que vos actions sont incompatibles avec notre Contrat d’Utilisation, nos règles ou d’autres politiques de Simba, ou pour protéger les droits, la propriété et la sécurité de nous-mêmes et des autres.
+- Informations agrégées ou anonymisées. Nous pouvons partager des informations vous concernant qui ont été agrégées ou anonymisées de telle sorte qu’elles ne peuvent raisonnablement pas être utilisées pour vous identifier. Par exemple, nous pouvons afficher le nombre total de fois où un article a été approuvé sans identifier les visiteurs, ou nous pouvons indiquer à un annonceur combien de personnes ont vu sa publicité.
 
 ## Comment nous protégeons vos informations
 
